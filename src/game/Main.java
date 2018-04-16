@@ -1,3 +1,4 @@
+//Just a little game I made before, wanted to see how fast I could do it now.
 package game;
 
 import java.util.*;
